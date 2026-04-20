@@ -239,6 +239,7 @@ After product selection, load the appropriate sub-skill:
 | Call | `/call/SKILL.md` | Audio/video call integration |
 | Live | `/live/SKILL.md` | Live streaming integration |
 | Chat | `/chat/SKILL.md` | Instant messaging integration |
+| TRTC SDK | `/trtc-sdk/SKILL.md` | TRTC SDK level skills (migration, integration helpers, etc.) |
 
 ---
 
